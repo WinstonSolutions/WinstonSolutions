@@ -8,13 +8,13 @@
 
 <!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=winstonsolutions&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=WinstonSolutions&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=winstonsolutions&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winstonsolutions&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WinstonSolutions&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinstonSolutions&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <!-- Tech Stack -->
@@ -62,5 +62,5 @@
 
 <!-- Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=winstonsolutions&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WinstonSolutions&theme=radical" alt="GitHub Streak" />
 </p>
