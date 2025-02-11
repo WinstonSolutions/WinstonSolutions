@@ -63,7 +63,7 @@
   <!-- Add other social media links here -->
 </p>
 
-<!-- Contribution Graph -->
+Contribution Graph
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WinstonSolutions&theme=radical)
 
 <!-- <p align="center">
